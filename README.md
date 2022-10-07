@@ -11,6 +11,8 @@ Prueba técnica de desarrollo en PHP - Framework(Laravel)
 3- Abra una terminal de comandos, luego se sitúa en la carpeta del proyecto o carpeta raiz de este.
 
 4- Proceda a ingresar los comandos en este orden:
+   
+    composer install
 
     php artisan key:generate
     
