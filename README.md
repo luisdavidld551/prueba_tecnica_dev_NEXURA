@@ -3,6 +3,7 @@ Prueba técnica de desarrollo en PHP - Framework(Laravel)
 
 
 # Instructivo para la ejecucion de la aplicacion
+
 1- Crear una base de datos con el nombre de: prueba_tecnica_dev.
 2- Edite el nombre del archivo .env.example y que solo quede .env, luego modifique el archivo .env con los datos de su servidor de DB.
 3- Abra una terminal de comandos, luego se sitúa en la carpeta del proyecto o carpeta raiz de este.
